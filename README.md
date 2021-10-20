@@ -18,9 +18,9 @@ Going for a walk and enjoying nature while taking a picture is something I like 
 
 ## My Expertise
 
-Creating digital solutions is what takes most of my time in a day. I use my competence with JavaScript, TypeScript, NodeJS, or PHP to accomplish tasks on an everyday basis. I do things with passion and I have an inner desire to thrive and practice thinking creatively.
+Creating digital solutions is what takes most of my time in a day. I do things with passion and I have an inner desire to thrive and practice thinking creatively.
 
-- Create UI Frameworks
+- 📫 Create UI Frameworks
   -  I've got you covered in all areas regarding front-end development.
 - 🔭 I’m currently working on establishing myself as a freelance developer. 
 - 🌱 I’m also learning python
