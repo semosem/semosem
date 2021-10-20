@@ -5,12 +5,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+## About Me
+
+I am Sem, an enthusiastic software developer. Elevating others by performing unselfish acts is an important concept to me. 
+Going for a walk and enjoying nature while taking a picture is something I like to do for fun and I very much like to do ordinary activities with friends and family. 
+
+## My Expertise
+
+Creating digital solutions is what takes most of my time in a day. I use my competence with JavaScript, TypeScript, NodeJS, or PHP to accomplish tasks on an everyday basis. I do things with passion and I have an inner desire to thrive and practice thinking creatively.
+
+- Create UI Frameworks
+  -  I've got you covered in all areas regarding front-end development.
+- 🔭 I’m currently working on establishing myself as a freelance developer. 
+- 🌱 I’m also learning python
+
+
+## My kind of technologies
+
+JavaScript, React, TypeScript, NodeJS,  Vue, Angular or PHP respectively
