@@ -23,6 +23,6 @@ Creating digital solutions is what takes most of my time in a day. I do things w
 - 📫 Create UI Frameworks
   -  I've got you covered in all areas regarding front-end development.
 
-## My kind of technologies
+## Technologies
 
 JavaScript, React, TypeScript, NodeJS,  Vue, Angular or PHP respectively
