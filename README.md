@@ -22,9 +22,6 @@ Creating digital solutions is what takes most of my time in a day. I do things w
 
 - 📫 Create UI Frameworks
   -  I've got you covered in all areas regarding front-end development.
-- 🔭 I’m currently working on establishing myself as a freelance developer. 
-- 🌱 I’m also learning python
-
 
 ## My kind of technologies
 
