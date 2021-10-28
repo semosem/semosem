@@ -23,4 +23,4 @@ Creating digital solutions is what takes most of my time in a day. I do things w
 
 ### Technologies
 
-JavaScript, React, TypeScript, NodeJS,  Vue, Angular or PHP respectively
+JavaScript, React, TypeScript, NodeJS,  Vue, Angular or Java and PHP respectively
