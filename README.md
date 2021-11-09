@@ -19,7 +19,7 @@ Going for a walk and enjoying nature while taking a picture is something I like 
 
 Creating digital solutions is what takes most of my time in a day. I do things with passion and I have an inner desire to thrive and practice thinking creatively.
 
--  I work in all areas regarding front-end development and/or writing APIs.
+-  I work in all areas regarding front-end development and/or writing APIs/NodeJS.
 
 ### Technologies
 
