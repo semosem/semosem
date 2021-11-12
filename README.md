@@ -16,7 +16,7 @@ I am Sem, an enthusiastic software engineer.
 
 ### My Expertise
 
-Creating digital solutions is what takes most of my time in a day. I do things with passion and I have an inner desire to thrive and practice thinking creatively.
+Creating digital solutions is what takes most of my time in a day. I do things with passion.
 
 -  I work in all areas regarding front-end development and/or writing APIs/NodeJS.
 
