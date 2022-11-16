@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 I am Sem, Helsinki based software engineer. I work in all areas regarding UI/UX development and writing APIs/NodeJS scripts.
 
-Technologies I use most often include JavaScript, React, TypeScript, NodeJS, Vue, Angular, and some PHP
+Technologies I use most often include JavaScript, React, TypeScript, NodeJS, Vue, Angular, and some Java
