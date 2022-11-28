@@ -18,5 +18,4 @@ Technologies I use most often include JavaScript, React, TypeScript, NodeJS, Vue
 
 ```
 if else
-
 ```
