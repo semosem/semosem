@@ -19,3 +19,5 @@ Technologies I use most often include JavaScript, React, TypeScript, NodeJS, Vue
 ```
 Boolean 
 ```
+
+![alt text](https://github.com/semosem/gitignore/blob/main/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
